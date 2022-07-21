@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambangpriyo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Github
+- 🌱 I’m currently learning 3 D Github
+- 💞️ I’m looking to collaborate on Web Monetization
 - 📫 How to reach me call https://wa.me/message/SCSJOQE6GFLLJ1
 
 <!---
